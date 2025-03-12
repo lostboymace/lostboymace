@@ -5,4 +5,4 @@
 🤠 Hey there!
 
 - 👑 Community Owner of [Defcon Gaming](https://github.com/defcon-gaming)
-- 💬 Discord: `lostboymace` :email: `lostboymace(at)gmail.com`
+- 💬 Discord: `lostboymace` :email: E-Mail: `lostboymace(at)gmail.com`
