@@ -1,8 +1,8 @@
 ## I'm Mace! 🎩
 
-<a href="https://github.com/senseihiraku"><img align="right" src="https://komarev.com/ghpvc/?username=senseihiraku"/></a>
+<a href="https://github.com/lostboymace"><img align="right" src="https://komarev.com/ghpvc/?username=lostboymace"/></a>
 
 🤠 Hey there!
 
-- 🎓 Student at University of Applied Sciences | 🛡 Supreme Leader at [Legion of Sensei](https://github.com/LegionOfSensei)
-- 💬 Discord: `senseihiraku` :email: `hiraku(at)legionofsensei.de`
+- 🎓 Freelance Developer & Community Owner of [Defcon Gaming](https://github.com/defcon-gaming)
+- 💬 Discord: `lostboymace` :email: `lostboymace(at)gmail.com`
