@@ -1,4 +1,4 @@
-## I'm Mace! 🕹️
+## I'm Mace! 🖐️
 
 <a href="https://github.com/lostboymace"><img align="right" src="https://komarev.com/ghpvc/?username=lostboymace"/></a>
 
