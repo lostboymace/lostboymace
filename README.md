@@ -4,5 +4,5 @@
 
 🤠 Hey there!
 
-- 🎓 Freelance Developer & Community Owner of [Defcon Gaming](https://github.com/defcon-gaming)
+- 👑 Community Owner of [Defcon Gaming](https://github.com/defcon-gaming)
 - 💬 Discord: `lostboymace` :email: `lostboymace(at)gmail.com`
